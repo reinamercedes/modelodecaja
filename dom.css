@@ -1,0 +1,20 @@
+.outside {
+	margin: 10px 0.5px;
+	background-color: pink;
+	padding: 1%;
+	border: 10px solid purple;
+}
+.inside {
+	border: dashed green 1px;
+	background-color: white;
+	padding: 1%;
+	text-align: center;
+	margin: 8px 1px 40px 50px;
+}
+.margin {
+	background-color: purple;
+	padding: 1%;
+}
+p {
+	font-size: 8px;
+}
